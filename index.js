@@ -1,5 +1,5 @@
 // arthimatic operator
-let a=prompt("enter the numner 1")
+let a=prompt("enter the number 1")
 
 let b=prompt("enter the number 2")
 let add=parseInt(a)+parseInt(b);
@@ -44,5 +44,5 @@ a+=b;
 console.log(a);
 a-=b;
 console.log(a);
-
+/////////////////////////////cd
 
